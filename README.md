@@ -13,5 +13,4 @@ Scrum Master: João Manoel
 
 Dev1 : Luan Henrique 
 
-
 Dev2: Enzo Zani
