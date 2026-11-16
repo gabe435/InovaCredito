@@ -4,3 +4,9 @@
 </p>  
 
 # InovaCrédito: Crédito Inclusivo
+
+# Membros:
+PO: Gabriel Hatano Rocha
+Scrum Master: João Manoel
+Dev1 : Luan Henrique 
+Dev2: Enzo Zani
