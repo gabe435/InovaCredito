@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/images/logo.png" alt="Logo InovaCrédito" width="180" />
+  <img src="https://github.com/user-attachments/assets/07420630-459d-43bb-b584-6bd1f92973d8" alt="Logo InovaCrédito" width="180" />
   <h1>InovaCrédito</h1>
   <p><strong>Plataforma de Análise de Risco e Crédito Inclusivo para Pessoa Física</strong></p>
 
